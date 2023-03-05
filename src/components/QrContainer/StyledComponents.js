@@ -5,14 +5,14 @@ export const StyledQrContainer = styled.div`
   flex-direction: column;
   align-items: center;
   border-radius: 12px;
-  width: 280px;
+  width: 17.5rem;
   padding: 13px;
   padding-bottom: 30px;
   background-color: hsl(0, 0%, 100%);
 `
 
 export const StyledImage = styled.img`
-  max-width: 280px;
+  max-width: 17.5rem;
   border-radius: 12px;
 `
 
@@ -22,7 +22,7 @@ export const StyledH1 = styled.h1`
   color: hsl(218, 44%, 22%);
   margin: 15px 0;
   font-weight: 700;
-  font-size: 21px;
+  font-size: 1.3125rem;
 `
 
 export const StyledP = styled.p`
@@ -30,5 +30,5 @@ export const StyledP = styled.p`
   padding: 0 8px;
   color: hsl(220, 15%, 55%);
   text-align: center;
-  font-size: 15px;
+  font-size: .9375rem;
 `
