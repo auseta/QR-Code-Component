@@ -1,7 +1,6 @@
 import React from 'react';
-import { easeOut, motion } from 'framer-motion'
+import { motion } from 'framer-motion'
 import QrContainer from './components/QrContainer/QrContainer'
-
 import { GlobalStyles } from './styles/GlobalStyles';
 
 function App() {
