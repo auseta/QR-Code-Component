@@ -8,6 +8,7 @@ export const GlobalStyles = createGlobalStyle`
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
     background-color: hsl(212, 45%, 89%);
     user-select: none;
   }
